@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
-
+using Un/*
+ * Maxwell Gordon
+ * Prototype 1
+ */
 public class PlayerEnterTrigger : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)

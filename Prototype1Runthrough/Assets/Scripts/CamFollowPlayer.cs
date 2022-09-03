@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Maxwell Gordon
+ * Prototype 1
+ */
+
 public class CamFollowPlayer : MonoBehaviour
 {
     // MaxG: Get Player ref.

@@ -1,7 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*
+ * Maxwell Gordon
+ * Prototype 1
+ */
 public class LoseOnFall : MonoBehaviour
 {
     

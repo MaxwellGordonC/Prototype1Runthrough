@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
+/*
+ * Maxwell Gordon
+ * Prototype 1
+ */
 public class ScoreManager : MonoBehaviour
 {
     public static bool bGameOver;
