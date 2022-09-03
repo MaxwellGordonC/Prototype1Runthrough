@@ -57,6 +57,8 @@
      <Compile Include="Assets\Scripts\LoseOnFall.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\PlayerEnterTrigger.cs" />
+     <Compile Include="Assets\Scripts\ScoreManager.cs" />
+     <Compile Include="Assets\Scripts\TriggerIncrementScore.cs" />
      <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>D:/School/2022-2023/Fall/CIS350/Assignment2/Github/Prototype1Runthrough/Prototype1Runthrough/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
